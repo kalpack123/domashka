@@ -4,7 +4,7 @@ const Header = () => {
       <h2 className="h2header">Castaway</h2>
 
       <h4 className="h4header">
-        <a href="#"> Home</a> <a href="#"> Episodes</a> <a href="#"> About</a>
+        <a href="#"> hame</a> <a href="#"> Episodes</a> <a href="#"> About</a>
         <a href="#"> Contact</a>
       </h4>
     </div>
